@@ -1,8 +1,29 @@
-# English Digit-recognition GUI with tkinter
-This software is an English digit classifier made with deep neural network using Keras and tensorflow. The network uses mnist dataset. It returns the best match and the accuracy. This easy-to-use software can be used in an interactive GUI which has in built canvas to draw digit, and shows result in an editable panel.
+# Digit Recognizer
+
+A deep learning project for recognizing English digits using Convolutional Neural Networks (CNN).
+
+## Project Description
+
+The Digit Recognizer project is designed to recognize handwritten English digits using a Convolutional Neural Network (CNN). This project is implemented in Python using TensorFlow and provides a user-friendly interface using Tkinter for drawing digits, predicting the handwritten digit, and visualizing the model's training history.
+
+## Purpose
+
+The purpose of this project is to showcase the application of deep learning techniques in image recognition, specifically for recognizing handwritten digits.
 
 ## Usage
-Run this program directly from ```gui.py``` file. 
+
 There is a pre-trained file ```digit_recognition_cnn_model.keras``` that has been given in this repository.
 
-The usage is quite simple. Just draw the digit and press predict. Press clear to clear the canvas and draw a new digit.
+To use the Digit Recognizer, follow these steps:
+
+1. Run the main script, `gui.py`.
+2. Draw a digit on the canvas provided in the GUI.
+3. Click the "Predict" button to see the model's prediction.
+4. Use the "Clear Canvas" button to reset the canvas for a new input.
+
+### Prerequisites
+
+Make sure you have the required dependencies installed. You can install them using:
+
+```bash
+pip install -r requirements.txt
