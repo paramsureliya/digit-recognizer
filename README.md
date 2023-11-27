@@ -27,6 +27,12 @@ The CNN model used in this project is trained on the MNIST dataset.
 Training Details
 The model is built using TensorFlow's Keras API. It consists of convolutional layers, max-pooling layers, and fully connected layers.
 
+## Results
+
+### Model Accuracy
+
+The trained CNN model achieved an accuracy of 98.8% on the validation set.
+
 ### Prerequisites
 
 Make sure you have the required dependencies installed. You can install them using:
@@ -37,14 +43,15 @@ pip install -r requirements.txt
 
 ## Visualizations
 
-### Training and Validation Metrics
+### Initial Data
 
+![initial_data_plot](https://github.com/paramsureliya/digit-recognizer/assets/148708744/6db15675-a65c-4cfe-9120-92e8640805bb)
+
+### Training and Validation Metrics
 
 ![loss_plot](https://github.com/paramsureliya/digit-recognizer/assets/148708744/0dbcf867-06dc-4625-99de-f293f2f3a9d2)
 
 
-![accuracy_plot](https://github.com/paramsureliya/digit-recognizer/assets/148708744/0f85cee4-e2df-454f-904c-c9883304a743)
-
 ### Sample Predictions
 
-![initial_data_plot](https://github.com/paramsureliya/digit-recognizer/assets/148708744/6db15675-a65c-4cfe-9120-92e8640805bb)
+![sample_prediction](https://github.com/paramsureliya/digit-recognizer/assets/148708744/2afbde64-070b-4de2-af68-b45208e3e143)
