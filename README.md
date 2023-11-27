@@ -33,3 +33,18 @@ Make sure you have the required dependencies installed. You can install them usi
 
 ```bash
 pip install -r requirements.txt
+```
+
+## Visualizations
+
+### Training and Validation Metrics
+
+![Training and Validation Accuracy](C:\Users\PARAM M. SURELIYA\PycharmProjects\digit recognizer\accuracy_plot.png)
+*Caption: Plot showing the training and validation accuracy over epochs.*
+
+![Training and Validation Loss](C:\Users\PARAM M. SURELIYA\PycharmProjects\digit recognizer\loss_plot.png)
+*Caption: Plot showing the training and validation loss over epochs.*
+
+### Sample Predictions
+
+Include any other relevant visualizations or sample predictions.
