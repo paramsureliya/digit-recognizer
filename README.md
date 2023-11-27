@@ -39,12 +39,12 @@ pip install -r requirements.txt
 
 ### Training and Validation Metrics
 
-![Training and Validation Accuracy](C:\Users\PARAM M. SURELIYA\PycharmProjects\digit recognizer\accuracy_plot.png)
-*Caption: Plot showing the training and validation accuracy over epochs.*
 
-![Training and Validation Loss](C:\Users\PARAM M. SURELIYA\PycharmProjects\digit recognizer\loss_plot.png)
-*Caption: Plot showing the training and validation loss over epochs.*
+![loss_plot](https://github.com/paramsureliya/digit-recognizer/assets/148708744/0dbcf867-06dc-4625-99de-f293f2f3a9d2)
+
+
+![accuracy_plot](https://github.com/paramsureliya/digit-recognizer/assets/148708744/0f85cee4-e2df-454f-904c-c9883304a743)
 
 ### Sample Predictions
 
-Include any other relevant visualizations or sample predictions.
+![initial_data_plot](https://github.com/paramsureliya/digit-recognizer/assets/148708744/6db15675-a65c-4cfe-9120-92e8640805bb)
