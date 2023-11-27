@@ -21,6 +21,12 @@ To use the Digit Recognizer, follow these steps:
 3. Click the "Predict" button to see the model's prediction.
 4. Use the "Clear Canvas" button to reset the canvas for a new input.
 
+## Model Training 
+The CNN model used in this project is trained on the MNIST dataset.
+
+Training Details
+The model is built using TensorFlow's Keras API. It consists of convolutional layers, max-pooling layers, and fully connected layers.
+
 ### Prerequisites
 
 Make sure you have the required dependencies installed. You can install them using:
